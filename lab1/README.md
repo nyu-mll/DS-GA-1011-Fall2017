@@ -32,3 +32,4 @@ If you have time, read and complete the exercises in `autograd_tutorial.ipynb`. 
 This tutorial is based on the following tutorials:
 - http://pytorch.org/tutorials/
 - https://github.com/yunjey/pytorch-tutorial
+- Jake Zhao's Deep Learning Spring 2017 PyTorch Tutorial
